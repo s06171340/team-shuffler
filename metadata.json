@@ -1,0 +1,5 @@
+{
+  "name": "Team Shuffler",
+  "description": "A tool to easily create and manage two teams, and then randomly shuffle members into smaller groups of three, handling exceptions for different team sizes.",
+  "requestFramePermissions": []
+}
